@@ -1,4 +1,4 @@
-<span style="font-size:2.2em;">**Задание 2**</span>
+<span style="font-size:2.2em;">**Задание 1**</span>
 
 1.Сделайте в своем github пространстве fork репозитория https://github.com/netology-code/shvirtd-example-python/blob/main/README.md.
 
