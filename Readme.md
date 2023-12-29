@@ -37,7 +37,7 @@
 
 <span style="font-size:2.2em;">**Задание 2**</span>
 
-![console.cloud.yandex.ru_folders_b1gcn2qnmrs7g9fq1f50_container-registry_registries_crpqjs9qp1emch06cj07_overview_pythonapp_image_crpehc7od1fu2q7ggcqr_scan-result_che1d8v72um9uhk7sas8_overview.png](..%2F..%2FDownloads%2Fconsole.cloud.yandex.ru_folders_b1gcn2qnmrs7g9fq1f50_container-registry_registries_crpqjs9qp1emch06cj07_overview_pythonapp_image_crpehc7od1fu2q7ggcqr_scan-result_che1d8v72um9uhk7sas8_overview.png)
+![img_20.png](img_20.png)
 
 <span style="font-size:2.2em;">**Задание 3**</span>
 
