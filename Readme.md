@@ -81,3 +81,11 @@
 ![img_29.png](img_29.png)
 ![img_28.png](img_28.png)
 ![img_27.png](img_27.png)
+
+<span style="font-size:2.2em;">**Задание 6**</span>
+
+1. Скачайте docker образ hashicorp/terraform:latest и скопируйте бинарный файл /bin/terraform на свою локальную машину, используя dive и docker save. Предоставьте скриншоты действий .
+![img_30.png](img_30.png)
+![img_31.png](img_31.png)
+
+<span style="font-size:2.2em;">**Задание 6.1**</span>
