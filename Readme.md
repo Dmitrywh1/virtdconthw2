@@ -91,6 +91,9 @@
 
 1. Запустите ваше python-приложение с помощью runC, не используя docker или containerd.
 Предоставьте скриншоты действий.
- ![img_38.png](img_38.png)
+
+![img_38.png](img_38.png)
+
 ![img_39.png](img_39.png)
+
 ![img_40.png](img_40.png)
