@@ -89,3 +89,14 @@
 ![img_31.png](img_31.png)
 
 <span style="font-size:2.2em;">**Задание 6.1**</span>
+
+1. Добейтесь аналогичного результата, используя познания CMD, ENTRYPOINT и docker cp.
+Предоставьте скриншоты действий.
+![img_32.png](img_32.png)
+![img_33.png](img_33.png)
+<span style="font-size:2.2em;">**Задание 6.2**</span>
+1. Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.
+Предоставьте скриншоты действий .
+![img_34.png](img_34.png)
+![img_35.png](img_35.png)
+2. 
