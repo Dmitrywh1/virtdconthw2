@@ -79,12 +79,16 @@
 Предоставьте скриншоты действий.
 ![img_32.png](img_32.png)
 ![img_33.png](img_33.png)
+
 <span style="font-size:2.2em;">**Задание 6.2**</span>
+
 1. Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.
 Предоставьте скриншоты действий .
 ![img_34.png](img_34.png)
 ![img_36.png](img_36.png)
+
 <span style="font-size:2.2em;">**Задание 7**</span>
+
 1. Запустите ваше python-приложение с помощью runC, не используя docker или containerd.
 Предоставьте скриншоты действий.
  ![img_38.png](img_38.png)
