@@ -98,3 +98,9 @@
 Предоставьте скриншоты действий .
 ![img_34.png](img_34.png)
 ![img_36.png](img_36.png)
+<span style="font-size:2.2em;">**Задание 7**</span>
+1. Запустите ваше python-приложение с помощью runC, не используя docker или containerd.
+Предоставьте скриншоты действий.
+ ![img_38.png](img_38.png)
+![img_39.png](img_39.png)
+![img_40.png](img_40.png)
